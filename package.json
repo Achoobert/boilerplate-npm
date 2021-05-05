@@ -1,4 +1,6 @@
 {
+	"author": "Isaac Schubert",
+	"description": "A project to get freecodecamp badge",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
